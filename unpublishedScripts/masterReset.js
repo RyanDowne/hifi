@@ -143,7 +143,7 @@ MasterReset = function() {
             position: position,
             dimensions: {
                 x: 0.05,
-                y: .23,
+                y: .53,
                 z: .36
             },
             script: gunScriptURL,
