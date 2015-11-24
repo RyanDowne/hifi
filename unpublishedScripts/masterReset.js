@@ -142,7 +142,7 @@ MasterReset = function() {
             modelURL: modelURL,
             position: position,
             dimensions: {
-                x: 0.05,
+                x: 0.1,
                 y: .23,
                 z: .36
             },
